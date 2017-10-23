@@ -1,0 +1,23 @@
+{
+  "name": "cv_project",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "kendo-ui": "latest",
+	"normalize.css": "*",
+    "jquery": "latest",
+	"bootstrap": "latest",
+	"font-awesome": "latest",
+	"animate.css": "latest",
+	"angular": "latest"
+  }
+}

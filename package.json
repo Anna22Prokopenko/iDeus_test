@@ -1,0 +1,27 @@
+{
+  "name": "cv_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp-watch": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-imagemin": "latest",
+    "imagemin-pngquant": "latest",
+    "rimraf": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-rigger": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
